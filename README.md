@@ -10,11 +10,11 @@
 >   3.熟悉 github使用教程
 
 >    test pull
-   test pull
+      test pull
+      
+ ### 第一个前端开发培训测试上线练习
+    1.233
 
   
   
 
->>>>>>> origin/master
-
-  2.第一个测试
