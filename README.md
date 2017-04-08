@@ -7,10 +7,9 @@
   
 >   3.熟悉 github使用教程
 
->    test pull
-      test pull
-      
-#####第一个前端开发培训测试上线练习
+   test pull
+    
+>   第一个前端开发培训测试上线练习
   
 
   
